@@ -53,3 +53,13 @@ AWS is a suitable choice for the global e-commerce company because its infrastru
 **2. Amazon EC2 Auto Scaling** – for automatically increasing or decreasing compute capacity.
 
 **3. Elastic Load Balancing (ELB)** – for distributing incoming traffic across servers.
+
+
+| Business Requirement        | Recommended Platform            | Justification                                                                                                                                                                                                                          |
+| --------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | **AWS**                         | AWS offers a wide range of services that can support startups from application development to deployment and storage. It can also scale resources as the startup grows.                                                                |
+| **Enterprise Organization** | **AWS**                         | AWS provides a broad range of services for computing, storage, databases, networking, security, and other enterprise workloads. Its global infrastructure also supports organizations operating at large scale.                        |
+| **Microsoft Environment**   | **Microsoft Azure**             | Azure is the best fit for organizations already using Microsoft technologies. It integrates well with services such as Windows Server, Microsoft 365, and Microsoft Entra ID.                                                          |
+| **AI / Machine Learning**   | **Google Cloud Platform (GCP)** | GCP is a strong choice for AI and machine learning because it provides AI/ML services and infrastructure for demanding workloads. Google Cloud also provides Vertex AI and specialized computing options for AI workloads.             |
+| **Kubernetes Deployment**   | **Google Cloud Platform (GCP)** | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service. It is a suitable choice for organizations that need to deploy and manage containerized applications using Kubernetes.                                       |
+| **Global Web Application**  | **AWS**                         | AWS has a large global infrastructure with multiple Regions and Availability Zones. Services such as Amazon EC2, Elastic Load Balancing, and Amazon CloudFront can support highly available and globally distributed web applications. |
