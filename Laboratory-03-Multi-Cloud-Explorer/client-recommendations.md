@@ -7,6 +7,7 @@ AWS is a good choice for the startup because it provides services that can help 
 **Services the client could use:**
 
 **1. Amazon Amplify** – for developing and deploying the mobile application's frontend and backend features.
+
 **2. Amazon EC2** – for running application servers.
 **3. Amazon S3** – for storing application files, images, and other data.
 
